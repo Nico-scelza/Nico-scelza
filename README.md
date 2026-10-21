@@ -8,7 +8,7 @@
 
 💻 Interested in **Data Analytics, Business Intelligence, and Artificial Intelligence**, particularly their applications in finance and business decision-making.
 
-🛠️ **Tools:** Python | SQL | Power BI | Excel
+🛠️ **Tools:** Python | Claude Code | Codex | SQL | Power BI | Excel
 
 📍 Buenos Aires, Argentina
 
