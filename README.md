@@ -1,11 +1,15 @@
-### 👋 ¡Hola! Soy Nicolás Scelza
+### Hi! I'm Nicolás Scelza 👋
 
-Apasionado por la **administración**, los **costos**, y el **análisis de datos económicos y financieros**. 📈
+🎓 Advanced **Business Administration student** at the National University of La Matanza (UNLaM), Argentina.
 
-- 🎓 Estudiante de **Administración** en la Universidad Nacional de La Matanza.
-- 💻 **Lenguajes**: Python y SQL
-- 📊 **Intereses**: Costos y Finanzas
+💼 **Collections & Payments Operations Lead**, with experience in financial management, team leadership, data analysis, and process optimization.
 
-Siempre buscando aprender y mejorar mis habilidades. 🤝
+📈 Passionate about **finance, capital markets, and fundamental equity analysis**, with a strong interest in business valuation and investment management.
 
-💼 **Les dejo mi LinkedIn**: [Nicolás Scelza](https://www.linkedin.com/in/nicolas-scelza-a14b32203/)
+💻 Interested in **Data Analytics, Business Intelligence, and Artificial Intelligence**, particularly their applications in finance and business decision-making.
+
+🛠️ **Tools:** Python | SQL | Power BI | Excel
+
+📍 Buenos Aires, Argentina
+
+🔗 **LinkedIn:** [Nicolás Scelza](https://www.linkedin.com/in/nicolas-scelza-a14b32203/)
